@@ -1,2 +1,2 @@
-# smorgasbord
-A smorgasbord of projects from high school and personal alike 
+# MineSweeper
+Python version of minesweeper I made in highschool 
